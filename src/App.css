@@ -11,6 +11,7 @@
 
 html {
   font-size: 62.5%;
+  background-color: darkgray;
 }
 
 .App {
@@ -104,7 +105,7 @@ h1 {
 }
 
 .recipe h2 {
-  background-color: blue;
+  background-color: fuchsia;
   border-radius: 0.5rem;
   padding: 0.3rem 0.5rem;
   position: absolute;
@@ -131,7 +132,7 @@ h1 {
   font-size: 2rem;
   text-transform: uppercase;
   color: #fff;
-  background-color: blue;
+  background-color: fuchsia;
   border: none;
   border-radius: 0.5rem;
   height: 3rem;
@@ -150,10 +151,10 @@ h1 {
 
 .ingredient-text {
   font-size: 1.5rem;
-  color: darkblue;
+  color:blue;
 }
 
 .ingredient-weight {
-  color: blue;
+  color:fuchsia;
   font-size: 1.3rem;
 }
